@@ -14,10 +14,10 @@ To activate this application
 
 
 📚 Website Mainpage.
-<img width="1100 src="https://user-images.githubusercontent.com/54101187/110809860-9df3c200-82c8-11eb-9b80-927b8fe5dae1.png" width="700">
+<img width="1100 src="https://user-images.githubusercontent.com/54101187/110809860-9df3c200-82c8-11eb-9b80-927b8fe5dae1.png">
 
 🧷 Deatail Content page.
-<img width="1106" alt="Detail" src="https://user-images.githubusercontent.com/54101187/110809901-a5b36680-82c8-11eb-84ec-89c361faa969.png">
+<img width="1100" alt="Detail" src="https://user-images.githubusercontent.com/54101187/110809901-a5b36680-82c8-11eb-84ec-89c361faa969.png">
 
 🧷 Upload Page.
 
