@@ -3,10 +3,9 @@ Made by <br>
 SEOKJU LEE
 
 This site is made for sharing clips to your friends and family
-TBH, to enhance my proficiency I used MERN boiler-plate for basic part.
+TBH, for enhancing my proficiency I used MERN boiler-plate for basic part.
 
 Guide
-
 To activate this application 
 * Require your own mongoDB
 * put mongo cluster info into dev.js inside config folder (should make dev.js)  
