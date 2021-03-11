@@ -1,5 +1,9 @@
-# clip a.k.a PetTube🧸
+# clip a.k.a PetTube🧸 
+Made by 
+SEOKJU LEE
+
 This site is made for sharing clips to your friends and family
+TBH, to enhance my proficiency I used MERN boiler-plate for basic part.
 
 Guide
 
@@ -23,7 +27,7 @@ To activate this application
 🧷 Subscribe Function.
 <img width="1084" alt="Subscription" src="https://user-images.githubusercontent.com/54101187/110809895-a51ad000-82c8-11eb-8bf5-05056f3e60d2.png">
 
-🧷 Signin and Login
+🧷 SignUp and Login
 
 
 
